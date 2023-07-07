@@ -1,0 +1,117 @@
+﻿{
+  "default": {
+    "author": "",
+    "firstScene": "Panorama",
+    "sceneFadeDuration": 2000
+  },
+  "scenes": {
+    "Panorama": {
+      "title": "1",
+      "panorama": "./img/Panorama1.jpg",
+      "hotSpots": [
+        {
+          "pitch": -20,
+          "yaw": -10,
+          "type": "scene",
+          "text": "Pond ",
+          "sceneId": "Panorama2"
+        }
+      ]
+    },
+    "Panorama2": {
+      "title": "2",
+      "panorama": "./img/Panorama2.jpg",
+      "hotSpots": [
+        {
+          "pitch": -15,
+          "yaw": -10,
+          "type": "scene",
+          "text": "Pond ",
+          "sceneId": "Panorama3"
+        }
+      ]
+    },
+    "Panorama3": {
+      "title": "3",
+      "panorama": "./img/Panorama3.jpg",
+      "hotSpots": [
+        {
+          "pitch": -20,
+          "yaw": 0          ,
+          "type": "scene",
+          "text": "Pond ",
+          "sceneId": "Panorama4"
+        }
+      ]
+    },
+    "Panorama4": {
+      "title": "4",
+      "panorama": "./img/Panorama4.jpg",
+      "hotSpots": [
+        {
+          "pitch": -20,
+          "yaw": 160
+          ,
+          "type": "scene",
+          "text": "Pond ",
+          "sceneId": "Panorama5"
+        }
+      ]
+    },
+    "Panorama5": {
+      "title": "5",
+      "panorama": "./img/Panorama5.jpg",
+      "hotSpots": [
+        {
+          "pitch": -10,
+          "yaw": 45
+          ,
+          "type": "scene",
+          "text": "Pond ",
+          "sceneId": "Panorama6"
+        }
+      ]
+    },
+    "Panorama6": {
+      "title": "6",
+      "panorama": "./img/Panorama6.jpg",
+      "hotSpots": [
+        {
+          "pitch": -10,
+          "yaw": 175
+          ,
+          "type": "scene",
+          "text": "Pond ",
+          "sceneId": "Panorama7"
+        }
+      ]
+    },
+    "Panorama7": {
+      "title": "7",
+      "panorama": "./img/Panorama7.jpg",
+      "hotSpots": [
+        {
+          "pitch": -10,
+          "yaw": 60
+          ,
+          "type": "scene",
+          "text": "Pond ",
+          "sceneId": "Panorama8"
+        }
+      ]
+    },
+    "Panorama8": {
+      "title": "hot press",
+      "panorama": "./img/Panorama8.jpg",
+      "hotSpots": [
+        {
+          "pitch": 0,
+          "yaw": -45,
+          "type": "scene",
+          "text": "Pond ",
+          "sceneId": "Panorama"
+        }
+      ]
+    }
+  }
+}
